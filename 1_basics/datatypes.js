@@ -38,10 +38,16 @@
 
 // const isloggedin= false
 
-// const id = Symbol('123')
-// const anotherId = Symbol('123')
+const id = Symbol('123')
+const anotherId = Symbol('123')
 
-// console.log(id === anotherId);
+console.log(id === anotherId);
+
+
+const bigNumber = 2124352352535n
+
+
+
 
 // //Reference (Non premitive)
 // // Arrays , Objects , Functions
