@@ -57,6 +57,6 @@ nym1=num2=num3=2+2
 
 
 let gameCounter = 100
-// gameCounter++   //prefix and postfix
+// gameCounter++   //prefix and postfix 
 ++gameCounter  
 console.log(gameCounter);
