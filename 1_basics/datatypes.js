@@ -46,6 +46,8 @@ console.log(id === anotherId);
 
 const bigNumber = 2124352352535n
 
+console.log(typeof bigNumber);
+
 
 
 
