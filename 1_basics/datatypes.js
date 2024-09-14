@@ -41,15 +41,46 @@
 const id = Symbol('123')
 const anotherId = Symbol('123')
 
-console.log(id === anotherId);
+// console.log(id === anotherId);
 
 
 const bigNumber = 2124352352535n
 
-console.log(typeof bigNumber);
+// console.log(typeof bigNumber);
 
 
 
 
 // //Reference (Non premitive)
 // // Arrays , Objects , Functions
+
+
+
+
+
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (primitives) , Queue (Non primitives)
+
+let myYoutube = "ToxicMines"
+let anothername = myYoutube
+
+anothername = "Rahul"
+console.log(myYoutube)
+console.log(anothername)
+
+
+let userOne = {
+    name : "rahul",
+    age : 22,
+    email : "rahul@gmail.com",
+    upi : "rahul@upi"
+}
+
+let userTwo=userOne
+
+userTwo.name="Rahul"
+console.log(userOne)
+console.log(userTwo)
