@@ -62,7 +62,7 @@ const bigNumber = 2124352352535n
 
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-// Stack (primitives) , Queue (Non primitives)
+// Stack (primitives) , Heap (Non primitives)
 
 let myYoutube = "ToxicMines"
 let anothername = myYoutube
