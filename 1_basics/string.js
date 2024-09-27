@@ -38,6 +38,3 @@ const url = "https://github.com/rahul%20ghosh111111"
 
 
 console.log(url.split("%20"));  // return array of strings
-
-
-
