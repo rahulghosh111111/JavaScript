@@ -41,3 +41,5 @@ console.log(`Hello ${this.name}`);  //string interpolation to access the name of
 }
 console.log(JsUser.greeting());
 console.log(JsUser.greetingTwo());
+
+hi
